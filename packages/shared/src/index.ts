@@ -1,6 +1,8 @@
 export * from "./content";
 export * from "./document-extensions";
+export * from "./image-alignment";
 export * from "./companion";
+export * from "./companion-focus";
 export * from "./public-demo";
 export * from "./ai-assistant";
 export * from "./ai-generation";
@@ -27,6 +29,7 @@ export * from "./note-links";
 export * from "./note-prose";
 export * from "./note-prose-css";
 export * from "./notebooks";
+export * from "./notebook-appearance";
 export * from "./revision-diff";
 export * from "./resource-links";
 export * from "./schemas";
